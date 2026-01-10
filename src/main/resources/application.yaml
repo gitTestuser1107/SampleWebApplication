@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SampleWebApplication
+
+server:
+  port: 8081
