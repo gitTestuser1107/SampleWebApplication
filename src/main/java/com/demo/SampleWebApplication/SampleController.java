@@ -12,7 +12,7 @@ public class SampleController {
 	
 	@GetMapping
 	public String getSampleResponse() {
-		return "Evaluation in " + dataFrom;
+		return "Devops Evaluation in " + dataFrom;
 	}
 
 }
