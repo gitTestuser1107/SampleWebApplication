@@ -12,7 +12,7 @@ public class SampleController {
 	
 	@GetMapping
 	public String getSampleResponse() {
-		return "Welcome to the world of Spring Boot from " + dataFrom;
+		return "Evaluation in " + dataFrom;
 	}
 
 }
