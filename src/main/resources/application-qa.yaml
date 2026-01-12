@@ -1,9 +1,5 @@
 spring:
   application:
     name: SampleWebApplication
-
-server:
-  port: 8082
-
 data:
-  from: PROD
+  from: QA
